@@ -39,4 +39,4 @@
 ---
 
 ### 📫 Connect with Me
-* **LinkedIn:** [https://www.linkedin.com/in/ferdy-nugraha-oey-94411a325/]
+* **LinkedIn:** https://www.linkedin.com/in/ferdy-nugraha-oey-94411a325/
