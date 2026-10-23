@@ -56,7 +56,6 @@
 <p align="left">
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" /></a>
-  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
 </p>
 
 ---
