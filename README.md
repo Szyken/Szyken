@@ -14,10 +14,10 @@
 
 ### 🏆 Featured Contributions & Projects
 
-* 🏛️ **HIMSI UMN Official Website** — *Web Developer (Academic Division)*  
-  Developed and maintained the official website for the Information Systems Student Association at Universitas Multimedia Nusantara (`himsi.umn.ac.id`), managing repository workflows and Plesk hosting deployments.
-* 🌟 **NAVAJIVANA 2026 (Perkenalan Prodi Sistem Informasi UMN)** — *Frontend & Deployment Engineer*  
-  Engineered interactive frontend components (including the milestone timeline using Next.js/React & TypeScript), managed GitHub pull requests, and configured custom subdomain DNS routing across Vercel and Plesk (`https://himsi.umn.ac.id/perkenalan-prodi`).
+* 🏛️ **HIMSI UMN & NAVAJIVANA 2026 (Perprod SI) Web Platform** — *Web Developer & Maintainer (Academic Division)*  
+  * **Website Continuation & Maintenance:** Contributed to maintaining and updating the official HIMSI UMN website (`himsi.umn.ac.id`) to ensure smooth production operations.
+  * **Team Collaboration (Perprod SI 2026):** Collaborated in a **3-member developer team** to build the NAVAJIVANA 2026 orientation website using Next.js, React, and TypeScript (developing the interactive milestone timeline and managing GitHub pull requests).
+  * **Codebase Integration & Deployment:** Merged the separate Perprod project repository into the main HIMSI codebase and configured custom subdomain DNS routing across Vercel and Plesk (`https://himsi.umn.ac.id/perkenalan-prodi`).
 
 <p align="left">
   <a href="https://himsi.umn.ac.id" target="_blank">
