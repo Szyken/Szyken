@@ -52,12 +52,6 @@
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 </p>
 
-**Databases:**
-<p align="left">
-  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /></a>
-  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Google%20BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google BigQuery" /></a>
-</p>
-
 ---
 
 ### 📊 GitHub Stats
