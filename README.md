@@ -17,7 +17,7 @@
 * 🏛️ **HIMSI UMN Official Website** — *Web Developer (Academic Division)*  
   Developed and maintained the official website for the Information Systems Student Association at Universitas Multimedia Nusantara (`himsi.umn.ac.id`), managing repository workflows and Plesk hosting deployments.
 * 🌟 **NAVAJIVANA 2026 (Perkenalan Prodi Sistem Informasi UMN)** — *Frontend & Deployment Engineer*  
-  Engineered interactive frontend components (including the milestone timeline using Next.js/React & TypeScript), managed GitHub pull requests, and configured custom subdomain DNS routing across Vercel and Plesk (`perkenalanprodisisteminformasiumn.himsi.umn.ac.id`).
+  Engineered interactive frontend components (including the milestone timeline using Next.js/React & TypeScript), managed GitHub pull requests, and configured custom subdomain DNS routing across Vercel and Plesk (`https://himsi.umn.ac.id/perkenalan-prodi`).
 
 <p align="left">
   <a href="https://himsi.umn.ac.id" target="_blank">
