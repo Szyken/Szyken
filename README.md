@@ -2,7 +2,7 @@
 
 <p align="left">
   <a href="#-tech-stack--tools">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&vCenter=true&width=600&lines=Information+Systems+Student+%40+UMN;Big+Data+Analytics+Specialist;Full-Stack+Web+Developer;Machine+Learning+%26+BI+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38B2AC&vCenter=true&width=600&lines=Information+Systems+Student+%40+UMN;Specializing+in+Big+Data+Analytics;Full-Stack+Web+Development;Machine+Learning+%26+BI+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
