@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#-tech-stack--tools">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:38b2ac&height=180&section=header&text=Ferdy%20Nugraha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20Web%20%26%20Data%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
+    <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="100%" alt="Coding Banner" />
   </a>
 </p>
 
