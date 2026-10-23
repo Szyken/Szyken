@@ -1,6 +1,6 @@
 <p align="center">
   <a href="#-tech-stack--tools">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24&height=200&section=header&text=Ferdy%20Nugraha&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20Web%20%26%20Data%20Enthusiast&descAlignY=55&descSize=18" width="100%" alt="Header Banner" />
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,100:38b2ac&height=180&section=header&text=Ferdy%20Nugraha&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Information%20Systems%20Student%20%7C%20Web%20%26%20Data%20Enthusiast&descAlignY=58&descSize=16" width="100%" alt="Header Banner" />
   </a>
 </p>
 
