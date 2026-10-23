@@ -1,4 +1,4 @@
-# Hi there, I'm Ferdy! 👋
+# Hi there, I'm Ferdy Nugraha! 👋
 
 🎓 **Information Systems Student** specializing in **Big Data Analytics**  
 💻 Passionate about building scalable **Web Applications** and extracting insights through **Machine Learning & Business Intelligence**.  
