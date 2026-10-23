@@ -23,7 +23,7 @@
   <a href="https://himsi.umn.ac.id" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit-HIMSI_UMN_Website-0A66C2?style=for-the-badge" alt="HIMSI Website" />
   </a>
-  <a href="https://perkenalanprodisisteminformasiumn.himsi.umn.ac.id" target="_blank">
+  <a href="https://himsi.umn.ac.id/perkenalan-prodi" target="_blank">
     <img src="https://img.shields.io/badge/🌐_Visit-Perprod_SI_UMN_Website-10B981?style=for-the-badge" alt="Perprod Website" />
   </a>
 </p>
