@@ -6,6 +6,24 @@
 
 ---
 
+### 🏆 Featured Contributions & Projects
+
+* 🏛️ **HIMSI UMN Official Website** — *Web Developer (Academic Division)*  
+  Developed and maintained the official website for the Information Systems Student Association at Universitas Multimedia Nusantara (`himsi.umn.ac.id`), managing repository workflows and Plesk hosting deployments.
+* 🌟 **NAVAJIVANA 2026 (Perkenalan Prodi Sistem Informasi UMN)** — *Frontend & Deployment Engineer*  
+  Engineered interactive frontend components (including the milestone timeline using Next.js/React & TypeScript), managed GitHub pull requests, and configured custom subdomain DNS routing across Vercel and Plesk (`perkenalanprodisisteminformasiumn.himsi.umn.ac.id`).
+
+<p align="left">
+  <a href="https://himsi.umn.ac.id" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit-HIMSI_UMN_Website-0A66C2?style=for-the-badge" alt="HIMSI Website" />
+  </a>
+  <a href="https://perkenalanprodisisteminformasiumn.himsi.umn.ac.id" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Visit-Perprod_SI_UMN_Website-10B981?style=for-the-badge" alt="Perprod Website" />
+  </a>
+</p>
+
+---
+
 ### 🚀 Tech Stack & Tools
 
 **Web & Software Development:**
