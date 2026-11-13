@@ -60,14 +60,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <a href="#-github-stats"><img src="https://github-readme-stats.vercel.app/api?username=Szyken&show_icons=true&theme=tokyonight&hide_border=true" alt="Ferdy's GitHub stats" height="165" /></a>
-  <a href="#-github-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Szyken&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" /></a>
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/ferdy-nugraha-oey-94411a325/" target="_blank">
