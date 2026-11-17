@@ -37,7 +37,7 @@
 - 🫁 **COVID-19 Chest X-Ray Classification (Data Modeling & Data Analytics)** — *ML Developer & Deployment Engineer*  
   * **Data Modeling (XGBoost & CNN):** Engineered and compared traditional machine learning (**XGBoost** with 1D pixel flattening) and deep learning (**Convolutional Neural Network / CNN** with Batch Normalization and MaxPooling) to classify Normal and COVID-19 chest radiographs, utilizing random undersampling and RGB image augmentation to address class imbalance.
   * **Data Analytics (RBM Pipeline):** Built an unsupervised generative feature extraction pipeline using **Bernoulli Restricted Boltzmann Machine (RBM)** paired with a **Logistic Regression** classifier, applying controlled image upsampling and spatial pixel downsampling to optimize memory efficiency and training convergence.
-  * **Interactive Web Deployment:** Serialized the trained classification pipelines and deployed two real-time interactive web applications using **Streamlit**, enabling users to upload chest X-ray images for instant automated screening.
+  * **Interactive Web Deployment & Usage:** Serialized the trained models (`.pkl`) into **Streamlit** web applications—users simply upload a chest X-ray image (`JPG`/`PNG`) via the web interface to view the image preview and receive instant real-time classification results (**Normal** or **COVID-19**).
 
 <p align="left">
   <a href="https://deployment-datamodelling-htwzjs36gyaufqdw4tkhej.streamlit.app/" target="_blank">
@@ -47,6 +47,11 @@
     <img src="https://img.shields.io/badge/🚀_Live_App-COVID--19_Detection_(RBM)-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Analytics Streamlit App" />
   </a>
 </p>
+
+- 📊 **Scopus Publication Data Warehouse & Analytics (UMN)** — *Data Warehouse & BI Developer*  
+  * **End-to-End ETL & Data Quality:** Engineered an automated ETL pipeline in **Power Query** to consolidate lecturer master records and Scopus exports (2020–2025) into a single source of truth, performing author name standardization, record deduplication, late-arriving data handling, and CiteScore quartile conforming.
+  * **Dimensional Modeling (Star Schema):** Architected a relational **Star Schema** featuring core fact tables (`FactPublication`, `FactPublicationAuthor`) and conformed dimensions (`DimLecturer`, `DimFaculty`, `DimStudyProgram`, `DimVenue`, `DimCiteScoreRank`, `DimDate`) equipped with surrogate keys and Slowly Changing Dimensions (SCD).
+  * **BI Semantic Model & Interactive Dashboards:** Developed a **Power BI** semantic model with custom DAX measures to track faculty quartile rankings, study program publication trends, cross-departmental research collaborations, and automated data reconciliation metrics.
 
 - 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
   * **Data Preparation & Transformation:** Processed the United Nations Comtrade (*Global Commodity Trade Statistics*) dataset by filtering temporal scopes (2010–2016), cleaning missing/duplicate records, and creating custom calculated fields (`Trade Direction` mapping Import/Export into Inbound/Outbound flows).
@@ -76,6 +81,9 @@
 **Data Science, ML & BI:**
 <p align="left">
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /></a>
+  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
+  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
+  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
