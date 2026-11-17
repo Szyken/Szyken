@@ -34,6 +34,20 @@
   </a>
 </p>
 
+- 🫁 **COVID-19 Chest X-Ray Classification (Data Modeling & Data Analytics)** — *ML Developer & Deployment Engineer*  
+  * **Data Modeling (XGBoost & CNN):** Engineered and compared traditional machine learning (**XGBoost** with 1D pixel flattening) and deep learning (**Convolutional Neural Network / CNN** with Batch Normalization and MaxPooling) to classify Normal and COVID-19 chest radiographs, utilizing random undersampling and RGB image augmentation to address class imbalance.
+  * **Data Analytics (RBM Pipeline):** Built an unsupervised generative feature extraction pipeline using **Bernoulli Restricted Boltzmann Machine (RBM)** paired with a **Logistic Regression** classifier, applying controlled image upsampling and spatial pixel downsampling to optimize memory efficiency and training convergence.
+  * **Interactive Web Deployment:** Serialized the trained classification pipelines and deployed two real-time interactive web applications using **Streamlit**, enabling users to upload chest X-ray images for instant automated screening.
+
+<p align="left">
+  <a href="https://deployment-datamodelling-htwzjs36gyaufqdw4tkhej.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_App-COVID--19_Detection_(CNN)-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Modeling Streamlit App" />
+  </a>
+  <a href="https://datnal-bpj6weuht2mb8kecapp35h3.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_Live_App-COVID--19_Detection_(RBM)-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Data Analytics Streamlit App" />
+  </a>
+</p>
+
 ---
 
 ### 🚀 Tech Stack & Tools
@@ -54,6 +68,7 @@
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" /></a>
+  <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" alt="Tableau" /></a>
   <a href="#-tech-stack--tools"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" /></a>
 </p>
