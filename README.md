@@ -20,7 +20,7 @@
 
 ### 🏆 Featured Contributions & Projects
 
-- 🏛️ **HIMSI UMN & NAVAJIVANA 2026 (Perprod SI) Web Platform** — *Web Developer & Maintainer (Academic Division)*  
+- 🏛️ **HIMSI UMN & NAVAJIVANA 2026 (Perprod SI) Web Platform** - *Web Developer & Maintainer (Academic Division)*  
   * **Website Continuation & Maintenance:** Contributed to maintaining and updating the official HIMSI UMN website (`himsi.umn.ac.id`) to ensure smooth production operations.
   * **Team Collaboration (Perprod SI 2026):** Collaborated in a **3-member developer team** to build the NAVAJIVANA 2026 orientation website using Next.js, React, and TypeScript (developing the interactive milestone timeline and managing GitHub pull requests).
   * **Codebase Integration & Deployment:** Merged the separate Perprod project repository into the main HIMSI codebase and configured custom path routing and deployment across Vercel and Plesk (`himsi.umn.ac.id/perkenalan-prodi`).
@@ -34,10 +34,10 @@
   </a>
 </p>
 
-- 🫁 **COVID-19 Chest X-Ray Classification (Data Modeling & Data Analytics)** — *ML Developer & Deployment Engineer*  
+- 🫁 **COVID-19 Chest X-Ray Classification (Data Modeling & Data Analytics)** - *ML Developer & Deployment Engineer*  
   * **Data Modeling (XGBoost & CNN):** Engineered and compared traditional machine learning (**XGBoost** with 1D pixel flattening) and deep learning (**Convolutional Neural Network / CNN** with Batch Normalization and MaxPooling) to classify Normal and COVID-19 chest radiographs, utilizing random undersampling and RGB image augmentation to address class imbalance.
   * **Data Analytics (RBM Pipeline):** Built an unsupervised generative feature extraction pipeline using **Bernoulli Restricted Boltzmann Machine (RBM)** paired with a **Logistic Regression** classifier, applying controlled image upsampling and spatial pixel downsampling to optimize memory efficiency and training convergence.
-  * **Interactive Web Deployment & Usage:** Serialized the trained models (`.pkl`) into **Streamlit** web applications—users simply upload a chest X-ray image (`JPG`/`PNG`) via the web interface to view the image preview and receive instant real-time classification results (**Normal** or **COVID-19**).
+  * **Interactive Web Deployment & Usage:** Serialized the trained models (`.pkl`) into **Streamlit** web applications-users simply upload a chest X-ray image (`JPG`/`PNG`) via the web interface to view the image preview and receive instant real-time classification results (**Normal** or **COVID-19**).
 
 <p align="left">
   <a href="https://deployment-datamodelling-htwzjs36gyaufqdw4tkhej.streamlit.app/" target="_blank">
@@ -48,12 +48,12 @@
   </a>
 </p>
 
-- 📊 **Scopus Publication Data Warehouse & Analytics (UMN)** — *Data Warehouse & BI Developer*  
+- 📊 **Scopus Publication Data Warehouse & Analytics (UMN)** - *Data Warehouse & BI Developer*  
   * **End-to-End ETL & Data Quality:** Engineered an automated ETL pipeline in **Power Query** to consolidate lecturer master records and Scopus exports (2020–2025) into a single source of truth, performing author name standardization, record deduplication, late-arriving data handling, and CiteScore quartile conforming.
   * **Dimensional Modeling (Star Schema):** Architected a relational **Star Schema** featuring core fact tables (`FactPublication`, `FactPublicationAuthor`) and conformed dimensions (`DimLecturer`, `DimFaculty`, `DimStudyProgram`, `DimVenue`, `DimCiteScoreRank`, `DimDate`) equipped with surrogate keys and Slowly Changing Dimensions (SCD).
   * **BI Semantic Model & Interactive Dashboards:** Developed a **Power BI** semantic model with custom DAX measures to track faculty quartile rankings, study program publication trends, cross-departmental research collaborations, and automated data reconciliation metrics.
 
-- 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** — *BI & Dashboard Developer*  
+- 🌍 **Global Commodity Trade Analysis & Visualization (2010–2016)** - *BI & Dashboard Developer*  
   * **Data Preparation & Transformation:** Processed the United Nations Comtrade (*Global Commodity Trade Statistics*) dataset by filtering temporal scopes (2010–2016), cleaning missing/duplicate records, and creating custom calculated fields (`Trade Direction` mapping Import/Export into Inbound/Outbound flows).
   * **Multi-Dashboard Architecture:** Designed and built **3 core interactive dashboards** in **Tableau** covering *Global Geographic Trade Distribution* (Choropleth World Map & Ranking Bar Chart), *Temporal Trade Value Trends* (Multi-Series Line Chart, Area Chart, & Highlight Table), and *Dominant Commodity Composition* (Bubble Chart & Category Distribution).
   * **Interactive Data Storytelling:** Integrated dynamic filters, tooltips, and visual highlights into a cohesive Tableau Story to explore global trade concentration, food security commodities, and market fluctuations across countries.
